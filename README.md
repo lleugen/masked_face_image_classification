@@ -23,3 +23,5 @@ We used transfer learning from the VGG16 model. We applied L2 regularizer and di
 ## Contributors
 [Eugenio Ostrovan](https://github.com/lleugen) and [Dennis Motta](https://github.com/Desno365)
 
+with help from course materials by professors Francesco Lattari, Matteo Matteucci and Giacomo Boracchi
+
